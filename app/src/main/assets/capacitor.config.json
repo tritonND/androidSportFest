@@ -1,0 +1,8 @@
+{
+  "appId": "com.sportfest.app",
+  "appName": "com.sportfest.app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
